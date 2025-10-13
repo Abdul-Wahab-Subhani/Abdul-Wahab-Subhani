@@ -10,7 +10,7 @@ I love building impactful, real-world applications — from **mobile apps** to *
 ## 🚀 About Me
 - 🎯 **Major:** Software Development  
 - 🧩 **Minor:** Quality Assurance  
-- 📚 **Education:** Bachelor of Science in Software Engineering – *Borcelle University (2018–2022)*  
+- 📚 **Education:** Bachelor of Science in Software Engineering – *University of Central Punjab (2022–2026)*  
 - 💡 Constantly exploring modern technologies and improving system design & user experience  
 - 🌱 Currently learning **advanced authentication (Passport.js)** and **backend integration**  
 - 🤝 Open to collaborations on innovative full-stack and mobile app projects  
@@ -80,7 +80,7 @@ A web app that classifies handwritten digits using a CNN model with real-time ca
 ## 🌐 Connect With Me
 💼 **LinkedIn:** [linkedin.com/in/abdulwahabsubhani](https://linkedin.com/in/abdulwahabsubhani)  
 📧 **Email:** [abdulwahabsubhani2003@gmail.com](mailto:abdulwahabsubhani2003@gmail.com)  
-💻 **Portfolio:** [your-portfolio-link.com](#)
+💻 **Portfolio:** [https://abdul-wahab-subhani.github.io/](#)
 
 ---
 
