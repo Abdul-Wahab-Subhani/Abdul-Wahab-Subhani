@@ -70,13 +70,6 @@ A web app that classifies handwritten digits using a CNN model with real-time ca
 
 ---
 
-## 📈 GitHub Stats
-
-![Abdul Wahab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdul-Wahab-Subhani&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Wahab-Subhani&layout=compact&theme=tokyonight)
-
----
-
 ## 🌐 Connect With Me
 💼 **LinkedIn:** [linkedin.com/in/abdulwahabsubhani](https://linkedin.com/in/abdulwahabsubhani)  
 📧 **Email:** [abdulwahabsubhani2003@gmail.com](mailto:abdulwahabsubhani2003@gmail.com)  
