@@ -46,9 +46,13 @@ A 15-screen mobile app that connects blood donors and recipients.
 Includes features like donor registration, emergency requests, and profile management with smooth navigation.
 
 ### 🛡️ Women’s Safety Mobile App  
-**Tech Stack:** React Native  
-An emergency safety app allowing women to send instant SOS alerts and share live location.  
-Focused on accessibility, fast response, and reliability.
+**Tech Stack:** UI/UX Design in Figma  
+A 30-screen mobile app concept focused on women’s safety and emergency response.
+Enables users to send instant SOS alerts, share live location, and notify trusted contacts during emergencies.
+Designed for maximum accessibility, quick response, and a calm, reliable user experience under pressure.
+The project emphasized intuitive navigation, modern visuals, and a user-first design approach.
+[View Full Design on Figma](https://www.figma.com/design/Zc5MkLqVmUM7SrfUaDUWOz/Women-Safety-App?node-id=0-1&t=vi11MHZ11gSVHZJ6-1)
+
 
 ### 📚 Java Library Management System  
 **Tech Stack:** Java, Swing, AWT  
