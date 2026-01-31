@@ -29,7 +29,7 @@ I love building impactful, real-world applications — from **mobile apps** to *
 `VS Code` • `Android Studio` • `Expo` • `Git` • `GitHub` • `Figma` • `Canva` • `Postman` • `Excel` • `Jupyter Notebook`
 
 **Databases:**  
-`MongoDB` • `Firebase` • `MySQL`
+`MongoDB` • `MySQL`
 
 ---
 
